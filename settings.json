@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Elitenetworkgg.aternos.me",
+    "ip": "ImperialAnarquistica.aternos.me",
     "port": 58682,
     "version": "1.21.1"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Soy un Bot creado por "ParaCraftero" Para Hacer que el servidor sea 24/7",
+        "Subscribete a Picazo y ParaCraftero!",
+        "Me gusta Bailar XD"
       ]
     },
     "chat-log": true,
